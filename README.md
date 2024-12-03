@@ -35,5 +35,5 @@ A **Task Manager** application built using React.js with a focus on managing tas
    ```bash
    git clone https://github.com/your-username/task-manager-analytics.git
    cd task-manager-analytics
--2.**npm install**
--3.**npm start**
+- 2.**npm install**
+- 3.**npm start**
